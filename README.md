@@ -1,6 +1,7 @@
 
 <p align=center><img src=gif.gif /> </p>
 
+• One of my first programs, made in 2017.
 
 • I had made this program to perform a tedious task in an online adventure game which has some anti-macro systems in place.  The purpose of its completely random behaviour is to avoid detection by the game’s anti-macro systems.  
 
